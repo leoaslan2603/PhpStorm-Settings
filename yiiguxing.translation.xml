@@ -1,0 +1,32 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="EXML解析错误 {0}: 找不到EXML文件" />
+      <item value="已经被定义" />
+      <item value="第一天" />
+      <item value="lenght" />
+      <item value="Features" />
+      <item value="configuration" />
+      <item value="Click here to type" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
+        <entry key="VIETNAMESE" value="5" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="VIETNAMESE" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
+    <option name="overrideFont" value="true" />
+    <option name="primaryFontFamily" value="FuraCode Nerd Font" />
+    <option name="targetLanguageSelection" value="LAST" />
+  </component>
+</application>
