@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nothing in the world is as soft and yielding as water." />
       <item value="EXML解析错误 {0}: 找不到EXML文件" />
       <item value="已经被定义" />
       <item value="第一天" />
@@ -12,7 +13,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
         <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
